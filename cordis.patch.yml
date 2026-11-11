@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-step-summary
+      name: 'dsh-step-summary'
+      config: {}
